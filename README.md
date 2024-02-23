@@ -1,2 +1,2 @@
-# Commercial-SC-Projects
-This repository includes some examples of educational projects I went through, built on data sets collected from global data science communities like kaggle.
+# Sales Performance
+This repository includes an analysis conducted to evaluate super store retailer sales performance based on many business metrics
